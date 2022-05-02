@@ -10,7 +10,5 @@ Hardcore data analysis is my passion with focus on developing deep meaningful in
 
 **Softwares:** *Microsoft Excel, Tableau*
 
-### Reach me at
-*ganesh.mkar@gmail.com*
 
 
